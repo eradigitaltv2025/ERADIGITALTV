@@ -159,9 +159,7 @@ http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/264769
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298539
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Indonesia",ID: Indosiar
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162138
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar Vip 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Indonesia",ID: IndosiarVip 1
-http://ktpremium.online:2095/live/kfc1061/68456584021/73617.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar Vip 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Indonesia",ID: IndosiarVip 2
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar Vip 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Indonesia",ID: IndosiarVip
 http://ktpremium.online:2095/live/A5675/4866/73617.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="Indonesia",ID: INews
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157579
