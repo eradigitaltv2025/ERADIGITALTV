@@ -1,0 +1,977 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",TRANS 7
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/54
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",TRANS TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/55
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",INDOSIAR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/56
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",SCTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/57
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",RCTI
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/58
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",MNC TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/59
+#EXTINF:0 tvg-id="gtv.il" group-title="- LOKAL ID -",GTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/60
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",iNEWS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/61
+#EXTINF:0 tvg-id="TVOne.uk" group-title="- LOKAL ID -",TV ONE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/62
+#EXTINF:0 tvg-id="Metro.pl" group-title="- LOKAL ID -",METRO TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/63
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",KOMPAS TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/64
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",ANTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/65
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",MDTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/66
+#EXTINF:0 tvg-id="rtvint" group-title="- LOKAL ID -",RTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/67
+#EXTINF:0 tvg-id="baltijos-lt" group-title="- LOKAL ID -",BTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/68
+#EXTINF:0 tvg-id="NTV.tr" group-title="- LOKAL ID -",NTV TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/69
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",CNN INDONESIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/70
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",SINDO NEWS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/71
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",BERITA SATU
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/72
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",TVRI
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/73
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",CNBC INDONESIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/75
+#EXTINF:0 tvg-id="ext" group-title="- LOKAL ID -",DAAI TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/76
+
+#EXTINF:0 tvg-id="cnn" group-title="- NEWS -",CNN INTERNATIONAL
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/78
+#EXTINF:0 tvg-id="ext" group-title="- NEWS -",CNN FAST
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/79
+#EXTINF:0 tvg-id="Skynews.gr" group-title="- NEWS -",SKY NEWS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/80
+#EXTINF:0 tvg-id="ext" group-title="- NEWS -",CBS News 24/7
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/81
+#EXTINF:0 tvg-id="ext" group-title="- NEWS -",NBC NEWS NOW
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/82
+#EXTINF:0 tvg-id="ext" group-title="- NEWS -",ABC NEWS LIVE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/83
+#EXTINF:0 tvg-id="bbc-world" group-title="- NEWS -",BBC NEWS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/84
+#EXTINF:0 tvg-id="ALJAZEERA.ca" group-title="- NEWS -",ALJAZEERA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/85
+#EXTINF:0 tvg-id="FoxNews.il" group-title="- NEWS -",FOX NEWS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/86
+#EXTINF:0 tvg-id="ext" group-title="- NEWS -",FOX LIVE NOW
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/87
+#EXTINF:0 tvg-id="russia-today" group-title="- NEWS -",RT ENGLISH
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/88
+#EXTINF:0 tvg-id="euro" group-title="- NEWS -",EURO NEWS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/89
+#EXTINF:0 tvg-id="dwelle" group-title="- NEWS -",DW ENGLISH
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/90
+#EXTINF:0 tvg-id="ext" group-title="- NEWS -",GB NEWS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/91
+#EXTINF:0 tvg-id="france24" group-title="- NEWS -",FRANCE 24
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/92
+#EXTINF:0 tvg-id="ext" group-title="- NEWS -",CNBC ASIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/93
+#EXTINF:0 tvg-id="bloomberg" group-title="- NEWS -",BLOOMBERG
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/94
+#EXTINF:0 tvg-id="ext" group-title="- NEWS -",CNA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/95
+#EXTINF:0 tvg-id="CBCNewsNetwork.ca" group-title="- NEWS -",CBC NEWS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/96
+#EXTINF:0 tvg-id="ext" group-title="- NEWS -",SEA TODAY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/97
+#EXTINF:0 tvg-id="ID.hu" group-title="- NEWS -",IDX
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/98
+
+#EXTINF:0 tvg-id="HBO.pl" group-title="- MOVIES -",HBO
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/99
+#EXTINF:0 tvg-id="HBOHits.in" group-title="- MOVIES -",HBO HITS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/100
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",HBO SIGN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/101
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="- MOVIES -",HBO FAMILY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/102
+#EXTINF:0 tvg-id="Cinemax.pe" group-title="- MOVIES -",CINEMAX
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/103
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",BOO
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/303
+#EXTINF:0 tvg-id="Showcase.uk" group-title="- MOVIES -",SHOWCASE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/304
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="- MOVIES -",SONY PIX
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/628
+#EXTINF:0 tvg-id="StarMovies.in" group-title="- MOVIES -",STAR MOVIES
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/629
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",BIOSKOP INDONESIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/104
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",FLIK
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/105
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",IMC
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/106
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="- MOVIES -",WARNER TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/107
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",CCM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/108
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",CELESTIAL MOVIES
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/109
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",ZEE BIOSKOP
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/110
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",ROCK ACTION
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/111
+#EXTINF:0 tvg-id="AXN.rs" group-title="- MOVIES -",AXN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/112
+#EXTINF:0 tvg-id="Kix.uk" group-title="- MOVIES -",KIX
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/113
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",THRILL
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/114
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",TvN MOVIE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/115
+#EXTINF:0 tvg-id="galaxy" group-title="- MOVIES -",GALAXY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/116
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",GALAXY PREMIUM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/117
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",CINEMA WORLD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/118
+#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="- MOVIES -",HITS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/119
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",HITS MOVIES
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/120
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",ORIGINALS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/121
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",CINEEDGE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/122
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",SUPERRIX
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/123
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",UNIQUES
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/124
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",MY CINEMA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/125
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",MY CINEMA ASIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/126
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",MY FAMILY CHANNEL
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/127
+#EXTINF:0 tvg-id="ext" group-title="- MOVIES -",MY CINEMA EUROPE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/1266
+
+#EXTINF:0 tvg-id="discov_rus" group-title="- KNOWLEDGE -",DISCOVERY CHANNEL
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/128
+#EXTINF:0 tvg-id="natgeo" group-title="- KNOWLEDGE -",NATIONAL GEOGRAPHIC
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/129
+#EXTINF:0 tvg-id="natgeowild" group-title="- KNOWLEDGE -",NAT GEO WILD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/130
+#EXTINF:0 tvg-id="animal_rus" group-title="- KNOWLEDGE -",ANIMAL PLANET
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/131
+#EXTINF:0 tvg-id="BBCEarth.no" group-title="- KNOWLEDGE -",BBC EARTH
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/132
+#EXTINF:0 tvg-id="LoveNature.uk" group-title="- KNOWLEDGE -",LOVE NATURE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/133
+#EXTINF:0 tvg-id="ext" group-title="- KNOWLEDGE -",DISCOVERY ASIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/134
+#EXTINF:0 tvg-id="ext" group-title="- KNOWLEDGE -",CGTN DOCUMENTARY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/135
+#EXTINF:0 tvg-id="ext" group-title="- KNOWLEDGE -",GLOBAL TREKKER
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/136
+#EXTINF:0 tvg-id="ext" group-title="- KNOWLEDGE -",WILD PLANET
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/137
+#EXTINF:0 tvg-id="ext" group-title="- KNOWLEDGE -",ADVENTURE EARTH
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/138
+#EXTINF:0 tvg-id="ext" group-title="- KNOWLEDGE -",INWILD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/139
+#EXTINF:0 tvg-id="Wildearth.uk" group-title="- KNOWLEDGE -",WILD EARTH
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/140
+#EXTINF:0 tvg-id="ext" group-title="- KNOWLEDGE -",CLARITY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/141
+
+#EXTINF:0 tvg-id="ext" group-title="- ENTERTAINMENT -",DUNIA LAIN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/142
+#EXTINF:0 tvg-id="ext" group-title="- ENTERTAINMENT -",CHINESE DRAMA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/143
+#EXTINF:0 tvg-id="ext" group-title="- ENTERTAINMENT -",K PLUS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/144
+#EXTINF:0 tvg-id="OneHD.il" group-title="- ENTERTAINMENT -",ONE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/145
+#EXTINF:0 tvg-id="ext" group-title="- ENTERTAINMENT -",ROCK ENTERTAINMENT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/146
+#EXTINF:0 tvg-id="TVN.pl" group-title="- ENTERTAINMENT -",TVN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/147
+#EXTINF:0 tvg-id="ext" group-title="- ENTERTAINMENT -",CITRA BIOSKOP
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/148
+#EXTINF:0 tvg-id="ext" group-title="- ENTERTAINMENT -",CITRA DRAMA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/149
+#EXTINF:0 tvg-id="ext" group-title="- ENTERTAINMENT -",CITRA ENTERTAINMENT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/150
+#EXTINF:0 tvg-id="ext" group-title="- ENTERTAINMENT -",CITRA DANGDUT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/151
+#EXTINF:0 tvg-id="ext" group-title="- ENTERTAINMENT -",CITRA MUSLIM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/152
+#EXTINF:0 tvg-id="tv5monde" group-title="- ENTERTAINMENT -",TV5 MONDE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/153
+#EXTINF:0 tvg-id="ext" group-title="- ENTERTAINMENT -",ABC AUSTRALIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/154
+#EXTINF:0 tvg-id="ext" group-title="- ENTERTAINMENT -",AMERICA'S GOT TALENT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/155
+#EXTINF:0 tvg-id="ext" group-title="- ENTERTAINMENT -",AMERICAN IDOL
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/156
+#EXTINF:0 tvg-id="ext" group-title="- ENTERTAINMENT -",SURVIVOR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/157
+#EXTINF:0 tvg-id="ext" group-title="- ENTERTAINMENT -",FEAR FACTOR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/158
+#EXTINF:0 tvg-id="ext" group-title="- ENTERTAINMENT -",JUST FOR LAUGHS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/159
+#EXTINF:0 tvg-id="nhk-world" group-title="- ENTERTAINMENT -",NHK WORLD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/160
+#EXTINF:0 tvg-id="Nhk.br" group-title="- ENTERTAINMENT -",NHK WORLD PREMIUM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/161
+#EXTINF:0 tvg-id="kbs-world" group-title="- ENTERTAINMENT -",KBS WORLD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/162
+#EXTINF:0 tvg-id="CGTN.cn" group-title="- ENTERTAINMENT -",CGTN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/163
+#EXTINF:0 tvg-id="arirang-en" group-title="- ENTERTAINMENT -",ARIRANG
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/164
+
+#EXTINF:0 tvg-id="ext" group-title="- KIDS -",MENTARI TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/165
+#EXTINF:0 tvg-id="ext" group-title="- KIDS -",HOREE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/166
+#EXTINF:0 tvg-id="ext" group-title="- KIDS -",ASTRO CERIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/167
+#EXTINF:0 tvg-id="Dreamworks.es" group-title="- KIDS -",DREAMWORKS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/168
+#EXTINF:0 tvg-id="cartoon" group-title="- KIDS -",CARTOON NETWORK
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/169
+#EXTINF:0 tvg-id="ext" group-title="- KIDS -",MY KIDZ
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/170
+#EXTINF:0 tvg-id="nick-jr" group-title="- KIDS -",NICK JR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/171
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="- KIDS -",NICKELODEON
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/172
+#EXTINF:0 tvg-id="ext" group-title="- KIDS -",CINEMACHI KIDS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/174
+#EXTINF:0 tvg-id="ext" group-title="- KIDS -",ANIPLUS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/175
+#EXTINF:0 tvg-id="Animax.in" group-title="- KIDS -",ANIMAX
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/176
+
+#EXTINF:0 tvg-id="hgtv" group-title="- LIFESTYLE -",HGTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/181
+#EXTINF:0 tvg-id="tlc-russia" group-title="- LIFESTYLE -",TLC
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/182
+#EXTINF:0 tvg-id="ext" group-title="- LIFESTYLE -",AFN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/183
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="- LIFESTYLE -",LIFETIME
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/184
+#EXTINF:0 tvg-id="food-network-rus" group-title="- LIFESTYLE -",FOOD NETWORK
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/185
+#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="- LIFESTYLE -",BBC LIFESTYLE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/186
+#EXTINF:0 tvg-id="fashion" group-title="- LIFESTYLE -",FASHION TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/187
+#EXTINF:0 tvg-id="ext" group-title="- LIFESTYLE -",FASHION TV MIDNIGHT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/188
+#EXTINF:0 tvg-id="ext" group-title="- LIFESTYLE -",TV5 MONDE STYLE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/189
+#EXTINF:0 tvg-id="ext" group-title="- LIFESTYLE -",HOMEFUL
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/190
+#EXTINF:0 tvg-id="ext" group-title="- LIFESTYLE -",AT HOME
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/191
+#EXTINF:0 tvg-id="ext" group-title="- LIFESTYLE -",ARCHITECTURAL DIGEST
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/192
+#EXTINF:0 tvg-id="ext" group-title="- LIFESTYLE -",THIS OLD HOUSE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/193
+#EXTINF:0 tvg-id="ext" group-title="- LIFESTYLE -",NBC LX HOME
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/194
+#EXTINF:0 tvg-id="ext" group-title="- LIFESTYLE -",THE DESIGN NETWORK
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/195
+
+#EXTINF:0 tvg-id="history-rus" group-title="- HISTORY -",HISTORY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/196
+#EXTINF:0 tvg-id="ext" group-title="- HISTORY -",HISTORY & WARFARE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/197
+#EXTINF:0 tvg-id="ext" group-title="- HISTORY -",MILITARY HEROES
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/198
+#EXTINF:0 tvg-id="ext" group-title="- HISTORY -",HISTORY 365
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/199
+#EXTINF:0 tvg-id="ext" group-title="- HISTORY -",MODERN MARVELS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/200
+#EXTINF:0 tvg-id="History.uk" group-title="- HISTORY -",HISTORIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/201
+#EXTINF:0 tvg-id="ext" group-title="- HISTORY -",MAGELLAN TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/202
+#EXTINF:0 tvg-id="ext" group-title="- HISTORY -",WEATHER SPY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/203
+
+#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="- CRIME & FACTUAL -",CRIME INVESTIGATION
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/204
+#EXTINF:0 tvg-id="ext" group-title="- CRIME & FACTUAL -",CRIME 24/7
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/205
+#EXTINF:0 tvg-id="ext" group-title="- CRIME & FACTUAL -",I SURVIVED
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/206
+#EXTINF:0 tvg-id="ext" group-title="- CRIME & FACTUAL -",EVIL KILLERS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/207
+#EXTINF:0 tvg-id="ext" group-title="- CRIME & FACTUAL -",60 DAYS IN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/208
+#EXTINF:0 tvg-id="ext" group-title="- CRIME & FACTUAL -",WITNESS TO JUSTICE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/209
+#EXTINF:0 tvg-id="ext" group-title="- CRIME & FACTUAL -",DATELINE 24/7
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/210
+#EXTINF:0 tvg-id="ext" group-title="- CRIME & FACTUAL -",CRIMES CULTS KILLERS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/211
+
+#EXTINF:0 tvg-id="ext" group-title="- KIDS 24/7 -",DORAEMON
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/213
+#EXTINF:0 tvg-id="ext" group-title="- KIDS 24/7 -",UPIN IPIN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/214
+#EXTINF:0 tvg-id="ext" group-title="- KIDS 24/7 -",MASHA & BEAR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/215
+#EXTINF:0 tvg-id="ext" group-title="- KIDS 24/7 -",LARVA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/216
+#EXTINF:0 tvg-id="ext" group-title="- KIDS 24/7 -",TAYO
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/217
+#EXTINF:0 tvg-id="ext" group-title="- KIDS 24/7 -",BERNARD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/218
+#EXTINF:0 tvg-id="ext" group-title="- KIDS 24/7 -",THOMAS & FRIEND
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/219
+#EXTINF:0 tvg-id="ext" group-title="- KIDS 24/7 -",TOM & JERRY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/220
+#EXTINF:0 tvg-id="ext" group-title="- KIDS 24/7 -",SHAUN THE SHEEP
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/221
+#EXTINF:0 tvg-id="ext" group-title="- KIDS 24/7 -",TELETUBBIES
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/222
+
+#EXTINF:0 tvg-id="ext" group-title="- BOX OFFICE 24/7 -",SPIDER MAN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/229
+#EXTINF:0 tvg-id="ext" group-title="- BOX OFFICE 24/7 -",IP MAN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/230
+#EXTINF:0 tvg-id="ext" group-title="- BOX OFFICE 24/7 -",JURASSIC PARK
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/231
+#EXTINF:0 tvg-id="ext" group-title="- BOX OFFICE 24/7 -",FAST AND THE FURIOUS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/232
+#EXTINF:0 tvg-id="ext" group-title="- BOX OFFICE 24/7 -",THE MUMMY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/233
+#EXTINF:0 tvg-id="ext" group-title="- BOX OFFICE 24/7 -",JUMANJI
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/234
+#EXTINF:0 tvg-id="ext" group-title="- BOX OFFICE 24/7 -",THE NUN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/235
+#EXTINF:0 tvg-id="ext" group-title="- BOX OFFICE 24/7 -",INDIANA JONES
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/236
+#EXTINF:0 tvg-id="ext" group-title="- BOX OFFICE 24/7 -",THE TERMINATOR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/237
+#EXTINF:0 tvg-id="ext" group-title="- BOX OFFICE 24/7 -",RESIDENT EVIL
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/238
+#EXTINF:0 tvg-id="ext" group-title="- BOX OFFICE 24/7 -",RAMBO
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/239
+#EXTINF:0 tvg-id="ext" group-title="- BOX OFFICE 24/7 -",THE CONJURING
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/240
+#EXTINF:0 tvg-id="ext" group-title="- BOX OFFICE 24/7 -",HARRY POTTER
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/241
+
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",MIC TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/244
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="- MUSIC -",MTV LIVE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/245
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",MTV 2000
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/631
+#EXTINF:0 tvg-id="mtv-rocks" group-title="- MUSIC -",MTV 90s
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/246
+#EXTINF:0 tvg-id="vh-1-classic" group-title="- MUSIC -",MTV 80s
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/632
+#EXTINF:0 tvg-id="MTVClassic.uk" group-title="- MUSIC -",MTV CLASSIC
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/247
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",MTV Unplugged
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/248
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",XITE Hits
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/249
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",XITE 90s Throwback
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/250
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",XITE 80s Flashback
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/251
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",Vevo 2010s
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/252
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",Vevo 2K
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/253
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",Vevo '90s
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/254
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",Vevo '80s
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/255
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",Vevo '70s
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/256
+#EXTINF:0 tvg-id="VevoPop.pl" group-title="- MUSIC -",Vevo Pop
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/257
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",Vevo Retro Rock
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/258
+#EXTINF:0 tvg-id="VevoCountry.pl" group-title="- MUSIC -",Vevo Country
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/259
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",Vevo R&B
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/260
+#EXTINF:0 tvg-id="VevoHipHop.pl" group-title="- MUSIC -",Vevo Hip-Hop
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/261
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",Vevo Latino
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/262
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="- MUSIC -",TRACE URBAN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/263
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",TRACE UK
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/264
+#EXTINF:0 tvg-id="TraceLatina.uk" group-title="- MUSIC -",TRACE LATINA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/265
+#EXTINF:0 tvg-id="ext" group-title="- MUSIC -",TRACE BRAZIL
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/266
+
+#EXTINF:0 tvg-id="ext" group-title="- RADIO -",GENTARA FM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/271
+#EXTINF:0 tvg-id="ext" group-title="- RADIO -",MUSTANG FM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/272
+#EXTINF:0 tvg-id="ext" group-title="- RADIO -",HOT FM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/273
+#EXTINF:0 tvg-id="ext" group-title="- RADIO -",KIS FM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/274
+#EXTINF:0 tvg-id="ext" group-title="- RADIO -",GEN FM JKT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/275
+#EXTINF:0 tvg-id="ext" group-title="- RADIO -",GEN FM SBY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/276
+#EXTINF:0 tvg-id="ext" group-title="- RADIO -",MOST RADIO
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/277
+#EXTINF:0 tvg-id="ext" group-title="- RADIO -",JAK FM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/278
+#EXTINF:0 tvg-id="ext" group-title="- RADIO -",CLASSY FM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/279
+#EXTINF:0 tvg-id="ext" group-title="- RADIO -",SUSHI FM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/280
+#EXTINF:0 tvg-id="ext" group-title="- RADIO -",TEMBANG LAWAS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/281
+
+#EXTINF:0 tvg-id="ext" group-title="- RELIGI -",RODJA TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/282
+#EXTINF:0 tvg-id="ext" group-title="- RELIGI -",MAKKAH TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/284
+#EXTINF:0 tvg-id="ext" group-title="- RELIGI -",SAUDI SUNNAH
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/285
+#EXTINF:0 tvg-id="Iqraa.net" group-title="- RELIGI -",IQRAA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/286
+#EXTINF:0 tvg-id="ext" group-title="- RELIGI -",MUHAMMADIYAH TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/287
+#EXTINF:0 tvg-id="ext" group-title="- RELIGI -",TV9
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/288
+#EXTINF:0 tvg-id="ext" group-title="- RELIGI -",MQTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/289
+#EXTINF:0 tvg-id="ext" group-title="- RELIGI -",REFORMED 21
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/290
+#EXTINF:0 tvg-id="lifenews" group-title="- RELIGI -",LIFE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/291
+#EXTINF:0 tvg-id="EWTN.uk" group-title="- RELIGI -",EWTN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/292
+
+#EXTINF:0 tvg-id="ext" group-title="- TV DAERAH -",JOWO CHANNEL
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/293
+#EXTINF:0 tvg-id="ext" group-title="- TV DAERAH -",SAKTI TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/294
+#EXTINF:0 tvg-id="ext" group-title="- TV DAERAH -",JTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/295
+#EXTINF:0 tvg-id="ext" group-title="- TV DAERAH -",GARUDA TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/296
+#EXTINF:0 tvg-id="ext" group-title="- TV DAERAH -",BALI TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/297
+#EXTINF:0 tvg-id="ext" group-title="- TV DAERAH -",BANDUNGTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/298
+#EXTINF:0 tvg-id="ext" group-title="- TV DAERAH -",TABALONG TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/299
+#EXTINF:0 tvg-id="ext" group-title="- TV DAERAH -",JITV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/300
+#EXTINF:0 tvg-id="ext" group-title="- TV DAERAH -",BTV BALIKPAPAN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/301
+#EXTINF:0 tvg-id="ext" group-title="- TV DAERAH -",INSPIRA TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/302
+
+#EXTINF:0 tvg-id="ext" group-title="- MALAYSIA -",ASTRO OASIS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/305
+#EXTINF:0 tvg-id="ext" group-title="- MALAYSIA -",ASTRO RANIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/306
+#EXTINF:0 tvg-id="ext" group-title="- MALAYSIA -",ASTRO AURA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/307
+#EXTINF:0 tvg-id="ext" group-title="- MALAYSIA -",ASTRO CITRA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/308
+#EXTINF:0 tvg-id="ext" group-title="- MALAYSIA -",ASTRO RIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/309
+#EXTINF:0 tvg-id="ext" group-title="- MALAYSIA -",ASTRO PRIMA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/310
+#EXTINF:0 tvg-id="tv1-lt" group-title="- MALAYSIA -",TV 1
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/312
+#EXTINF:0 tvg-id="tv2.hu" group-title="- MALAYSIA -",TV 2
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/313
+#EXTINF:0 tvg-id="tv3" group-title="- MALAYSIA -",TV 3
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/314
+#EXTINF:0 tvg-id="tv6-lt" group-title="- MALAYSIA -",TV 6
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/315
+#EXTINF:0 tvg-id="tv8-lt" group-title="- MALAYSIA -",TV 8
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/316
+#EXTINF:0 tvg-id="ext" group-title="- MALAYSIA -",TV 9
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/317
+#EXTINF:0 tvg-id="ext" group-title="- MALAYSIA -",DRAMA HEBAT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/318
+#EXTINF:0 tvg-id="ext" group-title="- MALAYSIA -",DRAMA HOTPOT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/319
+#EXTINF:0 tvg-id="ext" group-title="- MALAYSIA -",FILM MANTAP
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/320
+#EXTINF:0 tvg-id="ext" group-title="- MALAYSIA -",RTB Aneka
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/322
+#EXTINF:0 tvg-id="ext" group-title="- MALAYSIA -",RTB Sukmaindera
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/323
+#EXTINF:0 tvg-id="ext" group-title="- MALAYSIA -",RTB GO LIVE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/324
+
+#EXTINF:0 tvg-id="ext" group-title="- SINGAPORE -",CH 5
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/326
+#EXTINF:0 tvg-id="ext" group-title="- SINGAPORE -",CH 8
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/327
+#EXTINF:0 tvg-id="ext" group-title="- SINGAPORE -",CH U
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/328
+#EXTINF:0 tvg-id="ext" group-title="- SINGAPORE -",SURIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/329
+#EXTINF:0 tvg-id="ext" group-title="- SINGAPORE -",VASANTHAM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/330
+
+#EXTINF:0 tvg-id="ext" group-title="- CHINA -",IQIYI
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/339
+#EXTINF:0 tvg-id="ext" group-title="- CHINA -",TVB CLASSIC
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/340
+#EXTINF:0 tvg-id="ext" group-title="- CHINA -",HUNAN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/341
+#EXTINF:0 tvg-id="ext" group-title="- CHINA -",ANHUI
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/342
+#EXTINF:0 tvg-id="ext" group-title="- CHINA -",DRAGON TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/343
+#EXTINF:0 tvg-id="ext" group-title="- CHINA -",JIANGSU
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/344
+#EXTINF:0 tvg-id="ext" group-title="- CHINA -",ZHEJIANG
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/345
+#EXTINF:0 tvg-id="ext" group-title="- CHINA -",SHENZHEN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/346
+#EXTINF:0 tvg-id="CCTV4.nws" group-title="- CHINA -",CCTV 4
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/347
+#EXTINF:0 tvg-id="ext" group-title="- CHINA -",CTI ASIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/634
+#EXTINF:0 tvg-id="ext" group-title="- CHINA -",TVB XHINGHE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/348
+#EXTINF:0 tvg-id="ext" group-title="- CHINA -",TVBS ASIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/349
+#EXTINF:0 tvg-id="ext" group-title="- CHINA -",TVBS NEWS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/350
+
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",TV조선 사랑의 콜센타
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/351
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",TV조선 우리 이혼했어요
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/352
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",SBS 천원짜리변호사
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/353
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",SBS 나는 솔로
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/354
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",SBS 정글의 법칙
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/355
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",SBS 내남자의여자
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/356
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",SBS 피고인
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/357
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",KBS 1박2일 시즌1
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/358
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",KBS 고백부부
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/359
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",KBS 추노
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/360
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",KBS 태양의 후예
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/361
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",MBC 놀면 뭐하니
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/362
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",MBC 전지적 참견 시점
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/363
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",MBC 지붕뚫고 하이킥
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/364
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",MBC 거침없이 하이킥
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/365
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",MBC 심야괴담회
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/366
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",MBC 해를 품은 달
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/367
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",JTBC 한문철의 블랙박스리뷰
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/368
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",JTBC 톡파원25시
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/369
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",연합뉴스TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/371
+#EXTINF:0 tvg-id="YTN.us" group-title="- KOREA -",YTN
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/372
+#EXTINF:0 tvg-id="ext" group-title="- KOREA -",서울경제TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/373
+
+#EXTINF:0 tvg-id="ext" group-title="✔️ OTOMOTIF",MOTORVISION+
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/375
+#EXTINF:0 tvg-id="ext" group-title="✔️ OTOMOTIF",MOTOR RACING
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/376
+#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="✔️ OTOMOTIF",DMAX
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/377
+#EXTINF:0 tvg-id="ext" group-title="✔️ OTOMOTIF",TOP GEAR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/378
+#EXTINF:0 tvg-id="motor-trend" group-title="✔️ OTOMOTIF",MOTOR TREND
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/379
+#EXTINF:0 tvg-id="ext" group-title="✔️ OTOMOTIF",TORQUE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/380
+#EXTINF:0 tvg-id="MAVTV.us" group-title="✔️ OTOMOTIF",MAVTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/381
+#EXTINF:0 tvg-id="ext" group-title="✔️ OTOMOTIF",POWER NATION
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/382
+#EXTINF:0 tvg-id="ext" group-title="✔️ OTOMOTIF",NHRA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/383
+#EXTINF:0 tvg-id="ext" group-title="✔️ OTOMOTIF",HAGERTY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/384
+
+#EXTINF:0 tvg-id="ext" group-title="✔️ FIGHT",UFC FIGH PASS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/386
+#EXTINF:0 tvg-id="ext" group-title="✔️ FIGHT",UNIFI UFC
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/387
+#EXTINF:0 tvg-id="ext" group-title="✔️ FIGHT",RMC FIGHT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/388
+#EXTINF:0 tvg-id="FightSports.svn" group-title="✔️ FIGHT",FIGHT SPORTS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/389
+#EXTINF:0 tvg-id="ext" group-title="✔️ FIGHT",BOXING TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/390
+#EXTINF:0 tvg-id="WWE.ca" group-title="✔️ FIGHT",WWE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/391
+
+#EXTINF:0 tvg-id="ext" group-title="✔️ SPORTS HOBBY'S",FISHING NETWORK
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/392
+#EXTINF:0 tvg-id="ext" group-title="✔️ SPORTS HOBBY'S",ITALIAN FISHING
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/393
+#EXTINF:0 tvg-id="JustFishing.de" group-title="✔️ SPORTS HOBBY'S",JUST FISHING
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/394
+#EXTINF:0 tvg-id="ext" group-title="✔️ SPORTS HOBBY'S",SURFER
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/396
+#EXTINF:0 tvg-id="ext" group-title="✔️ SPORTS HOBBY'S",BILLIARD TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/397
+#EXTINF:0 tvg-id="ext" group-title="✔️ SPORTS HOBBY'S",WORLD BILLIARD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/398
+
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="✔️ LIVE F-1",SKY F1 UK
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/406
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE F-1",SKY F1 ITALIA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/407
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE F-1",SKY F1 DE
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/408
+#EXTINF:0 tvg-id="DAZN_F1.es" group-title="✔️ LIVE F-1",DAZN F1 ES
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/409
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE F-1",FOX 506 F1
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/410
+
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE MOTOGP",SKY MotoGP IT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/411
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE MOTOGP",SPO TV 1 ID MotoGP
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/413
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE MOTOGP",SPO TV 1 MY MotoGP
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/414
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE MOTOGP",TNT UK MotoGP
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/415
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE MOTOGP",CANAL+ MotoGP
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/416
+
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE TENNIS",BEIN SPORTS AIS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/417
+#EXTINF:0 tvg-id="SuperTennis.it" group-title="✔️ LIVE TENNIS",SUPER TENNIS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/418
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="✔️ LIVE TENNIS",TENNIS CHANNEL
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/419
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE TENNIS",T2
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/420
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE TENNIS",ZIGGO TENNIS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/421
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE TENNIS",SKY TENNIS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/422
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE TENNIS",beIN 7 AR Tennis
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/423
+
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="✔️ LIVE GOLF",NBC GOLF
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/424
+#EXTINF:0 tvg-id="Golfchannel.br" group-title="✔️ LIVE GOLF",GOLF CHANNEL
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/425
+#EXTINF:0 tvg-id="Golf.es" group-title="✔️ LIVE GOLF",MOVISTAR GOLF
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/426
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE GOLF",ZIGGO GOLF
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/427
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE GOLF",SKY GOLF HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/428
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE GOLF",FOX 503 GOLF
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/429
+
+#EXTINF:0 tvg-id="NBA.blt" group-title="- US | SPORTS US -",NBA TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/430
+#EXTINF:0 tvg-id="ext" group-title="- US | SPORTS US -",FS 1
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/432
+#EXTINF:0 tvg-id="ext" group-title="- US | SPORTS US -",FS 2
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/433
+#EXTINF:0 tvg-id="ext" group-title="- US | SPORTS US -",ESPN 1 USA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/434
+#EXTINF:0 tvg-id="ESPN2.us" group-title="- US | SPORTS US -",ESPN 2 USA
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/435
+#EXTINF:0 tvg-id="NFLSundayTicketGameMix.us" group-title="- US | SPORTS US -",NFL
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/436
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="- US | SPORTS US -",MLB NETWORK
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/437
+
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE CRICKET",ASTRO CRICKET
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/438
+#EXTINF:0 tvg-id="WillowCricket.us" group-title="✔️ LIVE CRICKET",WILLOW CRICKET
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/439
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE CRICKET",SKY CRICKET
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/440
+#EXTINF:0 tvg-id="ext" group-title="✔️ LIVE CRICKET",FOX 501 Cricket
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/441
+
+#EXTINF:0 tvg-id="ext" group-title="★ SPECIAL EVENT ★",LIGA 1 BRI
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/442
+#EXTINF:0 tvg-id="ext" group-title="★ SPECIAL EVENT ★",VOLI TV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/443
+#EXTINF:0 tvg-id="ext" group-title="★ SPECIAL EVENT ★",MOJI
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/444
+#EXTINF:0 tvg-id="MUTV.uk" group-title="★ SPECIAL EVENT ★",MUTV
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/1275
+#EXTINF:0 tvg-id="ext" group-title="★ SPECIAL EVENT ★",TIMNAS ⁽ˢᵉʳᵛᵉʳ ¹⁾ (Live Match Only)
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/445
+#EXTINF:0 tvg-id="ext" group-title="★ SPECIAL EVENT ★",TIMNAS ⁽ˢᵉʳᵛᵉʳ ²⁾ (Live Match Only)
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/446
+#EXTINF:0 tvg-id="ext" group-title="★ SPECIAL EVENT ★",EPL - 1 (Live Match Only)
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/447
+#EXTINF:0 tvg-id="ext" group-title="★ SPECIAL EVENT ★",EPL - 2 (Live Match Only)
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/448
+#EXTINF:0 tvg-id="ext" group-title="★ SPECIAL EVENT ★",EPL - 3 (Live Match Only)
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/449
+#EXTINF:0 tvg-id="ext" group-title="★ SPECIAL EVENT ★",EPL - 4 (Live Match Only)
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/450
+#EXTINF:0 tvg-id="ext" group-title="★ SPECIAL EVENT ★",EPL - 5 (Live Match Only)
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/451
+#EXTINF:0 tvg-id="ext" group-title="★ SPECIAL EVENT ★",EPL - 6 (Live Match Only)
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/452
+
+#EXTINF:0 tvg-id="ext" group-title="- ID | SPORTS ID -",TVRI SPORTS (Premium)
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/453
+#EXTINF:0 tvg-id="ext" group-title="- ID | SPORTS ID -",SPORTSTARS 1
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/454
+#EXTINF:0 tvg-id="ext" group-title="- ID | SPORTS ID -",SPORTSTARS 2
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/455
+#EXTINF:0 tvg-id="futbol" group-title="- ID | SPORTS ID -",SOCCER CHANNEL
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/458
+#EXTINF:0 tvg-id="ext" group-title="- ID | SPORTS ID -",SPO TV 1 ID
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/456
+#EXTINF:0 tvg-id="ext" group-title="- ID | SPORTS ID -",SPO TV 2 ID
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/457
+
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",ASTRO EPL 1
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/459
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",ASTRO EPL 2
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/460
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",ASTRO EPL 3
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/461
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",ASTRO FOOTBALL
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/462
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",ASTRO GRANDSTAND
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/463
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",ASTRO SPORTS +
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/464
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",ASTRO BADMINTON 1
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/465
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",ASTRO BADMINTON 2
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/633
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",ARENA BOLA 1
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/466
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",ARENA BOLA 2
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/467
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",ASTRO CRICKET
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/468
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",beIN SPORTS 1 MY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/469
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",beIN SPORTS 2 MY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/470
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",beIN SPORTS 3 MY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/471
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",SPO TV 1 MY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/472
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",SPO TV 2 MY
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/473
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="- MY | ASTRO SPORTS -",PREMIER SPORTS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/474
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",W-SPORTS
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/475
+#EXTINF:0 tvg-id="ext" group-title="- MY | ASTRO SPORTS -",SUKAN RTM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/476
+
+#EXTINF:0 tvg-id="ext" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 1 PT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/483
+#EXTINF:0 tvg-id="ext" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 2 PT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/484
+#EXTINF:0 tvg-id="ext" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 3 PT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/485
+#EXTINF:0 tvg-id="ext" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 4 PT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/486
+#EXTINF:0 tvg-id="ext" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 5 PT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/487
+#EXTINF:0 tvg-id="ext" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 6 PT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/488
+
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="- PT | SPORT TV -",SPORTTV 1 PT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/490
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="- PT | SPORT TV -",SPORTTV 2 PT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/491
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="- PT | SPORT TV -",SPORTTV 3 PT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/492
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="- PT | SPORT TV -",SPORTTV 4 PT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/493
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="- PT | SPORT TV -",SPORTTV 5 PT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/494
+#EXTINF:0 tvg-id="ext" group-title="- PT | SPORT TV -",SPORTTV 6 PT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/495
+#EXTINF:0 tvg-id="ext" group-title="- PT | SPORT TV -",SPORTTV+ PT
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/489
+
+#EXTINF:0 tvg-id="ext" group-title="- UK | TNT SPORTS -",TNT 1 HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/505
+#EXTINF:0 tvg-id="ext" group-title="- UK | TNT SPORTS -",TNT 2 HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/506
+#EXTINF:0 tvg-id="ext" group-title="- UK | TNT SPORTS -",TNT 3 HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/507
+#EXTINF:0 tvg-id="ext" group-title="- UK | TNT SPORTS -",TNT 4 HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/508
+#EXTINF:0 tvg-id="ext" group-title="- UK | TNT SPORTS -",TNT 5 HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/509
+
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="- UK | EUROSPORTS -",EUROSPORTS 1 UK
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/510
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="- UK | EUROSPORTS -",EUROSPORTS 2 UK
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/511
+
+#EXTINF:0 tvg-id="ext" group-title="- AR | beIN SPORTS -",beIN 1 AR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/512
+#EXTINF:0 tvg-id="ext" group-title="- AR | beIN SPORTS -",beIN 2 AR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/513
+#EXTINF:0 tvg-id="ext" group-title="- AR | beIN SPORTS -",beIN 3 AR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/514
+#EXTINF:0 tvg-id="ext" group-title="- AR | beIN SPORTS -",beIN 4 AR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/515
+#EXTINF:0 tvg-id="ext" group-title="- AR | beIN SPORTS -",beIN 5 AR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/516
+#EXTINF:0 tvg-id="ext" group-title="- AR | beIN SPORTS -",beIN 6 AR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/517
+
+#EXTINF:0 tvg-id="ext" group-title="- HR | ARENA SPORTS -",ARENA 1 PREMIUM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/518
+#EXTINF:0 tvg-id="ext" group-title="- HR | ARENA SPORTS -",ARENA 2 PREMIUM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/519
+#EXTINF:0 tvg-id="ext" group-title="- HR | ARENA SPORTS -",ARENA 3 PREMIUM
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/520
+#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="- HR | ARENA SPORTS -",ARENA SPORT 1
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/521
+#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="- HR | ARENA SPORTS -",ARENA SPORT 2
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/522
+#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="- HR | ARENA SPORTS -",ARENA SPORT 3
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/523
+#EXTINF:0 tvg-id="ArenaSport4.rs" group-title="- HR | ARENA SPORTS -",ARENA SPORT 4
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/524
+#EXTINF:0 tvg-id="ArenaSport5.rs" group-title="- HR | ARENA SPORTS -",ARENA SPORT 5
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/525
+
+#EXTINF:0 tvg-id="ext" group-title="- FR | beIN SPORTS -",beIN 1 FR HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/530
+#EXTINF:0 tvg-id="ext" group-title="- FR | beIN SPORTS -",beIN 2 FR HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/531
+#EXTINF:0 tvg-id="ext" group-title="- FR | beIN SPORTS -",beIN 3 FR HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/532
+#EXTINF:0 tvg-id="ext" group-title="- FR | beIN SPORTS -",beIN 4 FR HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/533
+#EXTINF:0 tvg-id="ext" group-title="- FR | beIN SPORTS -",beIN 5 FR HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/534
+
+#EXTINF:0 tvg-id="ext" group-title="- TR | beIN SPORTS -",beIN 1 TR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/539
+#EXTINF:0 tvg-id="ext" group-title="- TR | beIN SPORTS -",beIN 2 TR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/540
+#EXTINF:0 tvg-id="ext" group-title="- TR | beIN SPORTS -",beIN 3 TR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/541
+#EXTINF:0 tvg-id="ext" group-title="- TR | beIN SPORTS -",beIN 4 TR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/542
+#EXTINF:0 tvg-id="ext" group-title="- TR | beIN SPORTS -",beIN MAX 1 TR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/543
+#EXTINF:0 tvg-id="ext" group-title="- TR | beIN SPORTS -",beIN MAX 2 TR
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/544
+
+#EXTINF:0 tvg-id="ext" group-title="- NL | ZIGGO SPORTS -",ZIGGO 1
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/545
+#EXTINF:0 tvg-id="ext" group-title="- NL | ZIGGO SPORTS -",ZIGGO 2
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/546
+#EXTINF:0 tvg-id="ext" group-title="- NL | ZIGGO SPORTS -",ZIGGO 3
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/547
+#EXTINF:0 tvg-id="ext" group-title="- NL | ZIGGO SPORTS -",ZIGGO 4
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/548
+#EXTINF:0 tvg-id="ext" group-title="- NL | ZIGGO SPORTS -",ZIGGO 5
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/549
+#EXTINF:0 tvg-id="ext" group-title="- NL | ZIGGO SPORTS -",ZIGGO 6
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/550
+
+#EXTINF:0 tvg-id="ext" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 1 NZ
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/551
+#EXTINF:0 tvg-id="ext" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 2 NZ
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/552
+#EXTINF:0 tvg-id="ext" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 3 NZ
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/553
+#EXTINF:0 tvg-id="ext" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 4 NZ
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/554
+#EXTINF:0 tvg-id="ext" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 5 NZ
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/555
+#EXTINF:0 tvg-id="ext" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 6 NZ
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/556
+#EXTINF:0 tvg-id="ext" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 7 NZ
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/557
+#EXTINF:0 tvg-id="ext" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 8 NZ
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/558
+#EXTINF:0 tvg-id="ext" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 9 NZ
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/559
+#EXTINF:0 tvg-id="ext" group-title="- NZ | SKY SPORTS NZ -",Sky Sport Select NZ
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/560
+
+#EXTINF:0 tvg-id="ext" group-title="- AU | FOX SPORTS -",FOX 502
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/561
+#EXTINF:0 tvg-id="ext" group-title="- AU | FOX SPORTS -",FOX 503
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/562
+#EXTINF:0 tvg-id="ext" group-title="- AU | FOX SPORTS -",FOX 504
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/563
+#EXTINF:0 tvg-id="ext" group-title="- AU | FOX SPORTS -",FOX 505
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/564
+#EXTINF:0 tvg-id="ext" group-title="- AU | FOX SPORTS -",FOX 506
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/565
+#EXTINF:0 tvg-id="ext" group-title="- AU | FOX SPORTS -",FOX 507
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/566
+
+#EXTINF:0 tvg-id="ext" group-title="- SG | HUB SPORTS -",HUB SPORTS 1 HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/1271
+#EXTINF:0 tvg-id="ext" group-title="- SG | HUB SPORTS -",HUB SPORTS 2 HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/1272
+#EXTINF:0 tvg-id="ext" group-title="- SG | HUB SPORTS -",HUB SPORTS 3 HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/1273
+#EXTINF:0 tvg-id="ext" group-title="- SG | HUB SPORTS -",HUB SPORTS 4 HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/1274
+#EXTINF:0 tvg-id="ext" group-title="- SG | HUB SPORTS -",HUB PREMIER 1 HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/1260
+#EXTINF:0 tvg-id="ext" group-title="- SG | HUB SPORTS -",HUB PREMIER 2 HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/1261
+#EXTINF:0 tvg-id="ext" group-title="- SG | HUB SPORTS -",HUB PREMIER 3 HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/1262
+#EXTINF:0 tvg-id="ext" group-title="- SG | HUB SPORTS -",HUB PREMIER 4 HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/1263
+#EXTINF:0 tvg-id="ext" group-title="- SG | HUB SPORTS -",HUB PREMIER 5 HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/1264
+#EXTINF:0 tvg-id="ext" group-title="- SG | HUB SPORTS -",HUB PREMIER 6 HD
+http://103.160.63.220:25461/FREE_AKUN/CNcvGeIdVb/1265
+
+#EXTINF:0 tvg-id="avi" group-title="LOCKED (Premium Only)",LOCKED
+http://103.160.63.220:25461/movie/FREE_AKUN/CNcvGeIdVb/568.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="LOCKED (Premium Only)	",LOCKED S01 E01
+http://103.160.63.220:25461/series/FREE_AKUN/CNcvGeIdVb/569.mp4
+
+http://103.160.63.220:25461/get.php?username=FREE_AKUN&password=FREE_AKUN&type=m3u_plus
