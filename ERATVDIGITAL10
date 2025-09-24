@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
 #EXTINF:-1 tvg-id="net.id" tvg-name="[ID] Net. TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title=" [VIP] Indonesia",[ID] Net. TV
 http://ktpremium.online:2095/SkyGoh/8881806/73605
 #EXTINF:-1 tvg-id="rcti.id" tvg-name="[ID] RCTI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title=" [VIP] Indonesia",[ID] RCTI
