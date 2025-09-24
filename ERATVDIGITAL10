@@ -5,7 +5,7 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | NET TV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | NET TV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/34721.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -13,7 +13,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/34721.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | RCTI
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | RCTI
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73605.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -21,7 +21,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73605.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | SCTV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | SCTV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73606.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -29,7 +29,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73606.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | TRANS TV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | TRANS TV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73607.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -37,7 +37,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73607.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | TRANS 7
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | TRANS 7
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73608.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -45,7 +45,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73608.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | TV ONE
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | TV ONE
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73609.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -53,7 +53,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73609.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | METRO TV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | METRO TV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73610.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -61,7 +61,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73610.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | KOMPAS TV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | KOMPAS TV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73611.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -69,7 +69,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73611.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CNN INDONESIA
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CNN INDONESIA
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73612.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -77,7 +77,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73612.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | BTV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | BTV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73613.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -85,7 +85,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73613.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | MD TV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | MD TV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73614.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -93,7 +93,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73614.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | BERITA SATU
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | BERITA SATU
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73615.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -101,7 +101,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73615.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | INDOSOIR
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | INDOSOIR
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73616.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -109,7 +109,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73616.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | ANTV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | ANTV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73617.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -117,7 +117,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73617.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHINA
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHINA
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73618.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -125,7 +125,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73618.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | TVRI
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | TVRI
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73619.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -133,7 +133,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73619.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 17
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 17
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73620.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -141,7 +141,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73620.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 18
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 18
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73621.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -149,7 +149,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73621.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 19
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 19
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73622.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -157,7 +157,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73622.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 20
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 20
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73623.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -165,7 +165,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73623.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 21
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 21
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73624.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -173,7 +173,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73624.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | JAK TV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | JAK TV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73625.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -181,7 +181,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73625.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | J TV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | J TV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73626.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -189,7 +189,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73626.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 24
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 24
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73627.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -197,7 +197,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73627.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | TV9
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | TV9
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73628.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -205,7 +205,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73628.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 26
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 26
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73629.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -213,7 +213,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73629.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | JAWAPOS TV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | JAWAPOS TV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73630.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -221,7 +221,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73630.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHINA
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHINA
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73631.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -229,7 +229,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73631.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CCTV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CCTV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73869.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -237,7 +237,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73869.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CCTV2
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CCTV2
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73873.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -245,7 +245,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73873.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 34
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 34
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73878.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -253,7 +253,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73878.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 35
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 35
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73879.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -261,7 +261,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73879.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 36
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 36
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73880.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -269,7 +269,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73880.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 37
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 37
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73881.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -277,7 +277,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73881.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 38
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 38
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73882.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -285,7 +285,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73882.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 39
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 39
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73883.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -293,7 +293,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73883.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 40
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 40
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73884.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -301,7 +301,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73884.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 41
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 41
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73885.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -309,7 +309,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73885.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 42
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 42
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73886.ts
 
 
@@ -318,7 +318,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73886.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 43
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 43
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73887.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -326,7 +326,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73887.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 44
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 44
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73888.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -334,7 +334,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73888.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 45
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 45
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73889.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -342,7 +342,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73889.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 46
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 46
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73890.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -350,14 +350,14 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/73890.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 47
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 47
 http://ktpremium.shop:2095/live/SkyGoh/8881806/73990.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 48
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 48
 http://ktpremium.shop:2095/live/SkyGoh/8881806/886796.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -365,7 +365,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/886796.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CITRA DANGDUT
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CITRA DANGDUT
 http://ktpremium.shop:2095/live/SkyGoh/8881806/886807.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -373,7 +373,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/886807.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | BANDUNG TV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | BANDUNG TV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/886811.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -381,7 +381,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/886811.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 52
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 52
 http://ktpremium.shop:2095/live/SkyGoh/8881806/886836.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -389,7 +389,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/886836.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | EWTV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | EWTV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/901193.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -397,7 +397,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/901193.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | U CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | U CHANNEL
 http://ktpremium.shop:2095/live/SkyGoh/8881806/901194.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -405,7 +405,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/901194.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 56
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 56
 http://ktpremium.shop:2095/live/SkyGoh/8881806/921746.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -413,7 +413,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/921746.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 57
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 57
 http://ktpremium.shop:2095/live/SkyGoh/8881806/921747.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -421,7 +421,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/921747.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHINA TV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHINA TV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/946466.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -429,7 +429,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/946466.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | JAWAPOSTV
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | JAWAPOSTV
 http://ktpremium.shop:2095/live/SkyGoh/8881806/946467.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -437,7 +437,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/946467.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | KIX
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | KIX
 http://ktpremium.shop:2095/live/SkyGoh/8881806/946468.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -445,7 +445,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/946468.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 61
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 61
 http://ktpremium.shop:2095/live/SkyGoh/8881806/946469.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -453,7 +453,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/946469.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 62
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 62
 http://ktpremium.shop:2095/live/SkyGoh/8881806/946470.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -461,7 +461,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/946470.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 63
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 63
 http://ktpremium.shop:2095/live/SkyGoh/8881806/947784.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -469,7 +469,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/947784.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 64
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 64
 http://ktpremium.shop:2095/live/SkyGoh/8881806/947788.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -477,7 +477,7 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/947788.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 65
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 65
 http://ktpremium.shop:2095/live/SkyGoh/8881806/947789.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -485,5 +485,5 @@ http://ktpremium.shop:2095/live/SkyGoh/8881806/947789.ts
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="CHANNEL A ONLY | CHANNEL 66
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ INDONESIA CHANNEL  ✦●✦" tvg-logo="https://lo1.in/indo/flg.png" group-title="INDONESIA CHANNEL | CHANNEL 66
 http://ktpremium.shop:2095/live/SkyGoh/8881806/947917.ts
