@@ -1275,10 +1275,6 @@ http://filex.tv:8080//live/faheem01/0000/332946.ts
 http://filex.tv:8080//live/faheem01/0000/332947.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/1c82a29d4cd31c80c4afe5693af065f8.jpg" group-title="Qatar ➾ Sports",QA: BEIN Sports XTRA 2 HD
 http://filex.tv:8080//live/faheem01/0000/332948.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/39a582ae47a82b73e5541bdbb4f823a5.png" group-title="Qatar ➾ Documentary",QA: Aljazeera Documentary HD
-http://filex.tv:8080//live/faheem01/0000/332911.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/f6a28d916105de224efdf6d7400a1780.png" group-title="Qatar ➾ Documentary",QA: Travel Channel HD
-http://filex.tv:8080//live/faheem01/0000/332912.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/db9197f6c99d8bee8735f066e187d2e9.png" group-title="Turkey ➾ Sports",TR: A SPOR HD
 http://filex.tv:8080//live/faheem01/0000/317173.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/de22be100229320ab6edcdce8de7ba64.png" group-title="Turkey ➾ Sports",TR: BEIN Sports 1 HD
