@@ -3,431 +3,304 @@
 
 
 =================================================================PAKAIAJASENDIRI_JANGAN DI PERJUAL BELIKAN===========================================================================
-#EXTINF:-1 tvg-id="animalplanet.bg" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia",ID: Animal Planet HD
+#EXTM3U
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png",ID: Animal Planet HD
 http://filex.tv:8080//live/faheem01/0000/302203.ts
-#EXTINF:-1 tvg-id="animaux.fr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="Indonesia",ID: Animax HD
-http://filex.tv:8080//live/faheem01/0000/302204.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="Indonesia",ID: Aniplus HD
-http://filex.tv:8080//live/faheem01/0000/302205.ts
-#EXTINF:-1 tvg-id="ntv.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="Indonesia",ID: ANTV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png",ID: ANTV HD
 http://filex.tv:8080//live/faheem01/0000/302206.ts
-#EXTINF:-1 tvg-id="foodnetwork.bg" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="Indonesia",ID: Asian FOOD Network HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png",ID: Asian FOOD Network HD
 http://filex.tv:8080//live/faheem01/0000/302207.ts
-#EXTINF:-1 tvg-id="axn.pl" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Indonesia",ID: AXN HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png",ID: AXN HD
 http://filex.tv:8080//live/faheem01/0000/302208.ts
-#EXTINF:-1 tvg-id="babytv.it" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="Indonesia",ID: BABY TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png",ID: BABY TV HD
 http://filex.tv:8080//live/faheem01/0000/302209.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/2a775aaea195c8c104012a3f1823d059.jpeg" group-title="Indonesia",ID: Balikpapan TV HD
-http://filex.tv:8080//live/faheem01/0000/302210.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="Indonesia",ID: Bandung TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png",ID: Bandung TV HD
 http://filex.tv:8080//live/faheem01/0000/302211.ts
-#EXTINF:-1 tvg-id="bbcearth.no" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="Indonesia",ID: BBC Earth HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png",ID: BBC Earth HD
 http://filex.tv:8080//live/faheem01/0000/302212.ts
-#EXTINF:-1 tvg-id="bbclifestyle.pl" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: BBC Lifestyle HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",ID: BBC Lifestyle HD
 http://filex.tv:8080//live/faheem01/0000/302213.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="Indonesia",ID: BEIN Sports 1 HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png",ID: BEIN Sports 1 HD
 http://filex.tv:8080//live/faheem01/0000/302214.ts
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="Indonesia",ID: BEIN Sports 3 HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png",ID: BEIN Sports 3 HD
 http://filex.tv:8080//live/faheem01/0000/302215.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="Indonesia",ID: Berita SATU HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg",ID: Berita SATU HD
 http://filex.tv:8080//live/faheem01/0000/302216.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="Indonesia",ID: Berita SATU World HD
-http://filex.tv:8080//live/faheem01/0000/302217.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="Indonesia",ID: Bioskop Indonesia HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png",ID: Bioskop Indonesia HD
 http://filex.tv:8080//live/faheem01/0000/302218.ts
-#EXTINF:-1 tvg-id="boomerang.no" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="Indonesia",ID: Boomerang HD
-http://filex.tv:8080//live/faheem01/0000/302219.ts
-#EXTINF:-1 tvg-id="boomerang.no" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/417e73b7aedc07a73aa59b7d76bc6e6b.png" group-title="Indonesia",ID: Boomerang EN HD
-http://filex.tv:8080//live/faheem01/0000/302220.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.no" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="Indonesia",ID: Cartoon Network HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png",ID: Cartoon Network HD
 http://filex.tv:8080//live/faheem01/0000/302221.ts
-#EXTINF:-1 tvg-id="cbeebies.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="Indonesia",ID: Cbeebies HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png",ID: Cbeebies HD
 http://filex.tv:8080//live/faheem01/0000/302222.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="Indonesia",ID: Celestial Movies HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png",ID: Celestial Movies HD
 http://filex.tv:8080//live/faheem01/0000/302223.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/493aaa3003ce5a94d1bcfa27cf5eedb2.png" group-title="Indonesia",ID: CGTN Documentary HD
-http://filex.tv:8080//live/faheem01/0000/302224.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="Indonesia",ID: Channel NEWS ASIA HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png",ID: Channel NEWS ASIA HD
 http://filex.tv:8080//live/faheem01/0000/302225.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="Indonesia",ID: Cinemaworld HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png",ID: Cinemaworld HD
 http://filex.tv:8080//live/faheem01/0000/302226.ts
-#EXTINF:-1 tvg-id="cinemax.bg" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Indonesia",ID: Cinemax HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png",ID: Cinemax HD
 http://filex.tv:8080//live/faheem01/0000/302227.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="Indonesia",ID: Citra Dangdut HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png",ID: Citra Dangdut HD
 http://filex.tv:8080//live/faheem01/0000/302228.ts
-#EXTINF:-1 tvg-id="cnbc.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="Indonesia",ID: CNBC Indonesia HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png",ID: CNBC Indonesia HD
 http://filex.tv:8080//live/faheem01/0000/302229.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="Indonesia",ID: CNN Indonesia HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png",ID: CNN Indonesia HD
 http://filex.tv:8080//live/faheem01/0000/302230.ts
-#EXTINF:-1 tvg-id="crimeinvestigation.ca" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png" group-title="Indonesia",ID: Crime+ Investigation HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png",ID: Crime+ Investigation HD
 http://filex.tv:8080//live/faheem01/0000/302231.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/346b56a716927612398ba160e78effd0.png" group-title="Indonesia",ID: DA AI TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/346b56a716927612398ba160e78effd0.png",ID: DA AI TV HD
 http://filex.tv:8080//live/faheem01/0000/302232.ts
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="Indonesia",ID: Discovery World HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png",ID: Discovery World HD
 http://filex.tv:8080//live/faheem01/0000/302233.ts
-#EXTINF:-1 tvg-id="disneycinemagic.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="Indonesia",ID: Disney Channel HD
-http://filex.tv:8080//live/faheem01/0000/302234.ts
-#EXTINF:-1 tvg-id="disneyxd.ca" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="Indonesia",ID: Disney XD HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png",ID: Disney XD HD
 http://filex.tv:8080//live/faheem01/0000/302235.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="Indonesia",ID: Dreamworks HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png",ID: Dreamworks HD
 http://filex.tv:8080//live/faheem01/0000/302236.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="Indonesia",ID: Dunia ANAK HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png",ID: Dunia ANAK HD
 http://filex.tv:8080//live/faheem01/0000/302237.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="Indonesia",ID: Dunia LAIN HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png",ID: Dunia LAIN HD
 http://filex.tv:8080//live/faheem01/0000/302238.ts
-#EXTINF:-1 tvg-id="ntv.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="Indonesia",ID: ENT HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png",ID: ENT HD
 http://filex.tv:8080//live/faheem01/0000/302239.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: ETV Bioskop HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",ID: ETV Bioskop HD
 http://filex.tv:8080//live/faheem01/0000/302240.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: ETV Bioskop 02 HD
-http://filex.tv:8080//live/faheem01/0000/302241.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: ETV Bioskop 03 HD
-http://filex.tv:8080//live/faheem01/0000/302242.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: ETV Bioskop 04 HD
-http://filex.tv:8080//live/faheem01/0000/302243.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: FLIK HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",ID: FLIK HD
 http://filex.tv:8080//live/faheem01/0000/302244.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="Indonesia",ID: Galaxy Premium HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png",ID: Galaxy Premium HD
 http://filex.tv:8080//live/faheem01/0000/302245.ts
-#EXTINF:-1 tvg-id="eentertainment.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="Indonesia",ID: GEM HD
-http://filex.tv:8080//live/faheem01/0000/302246.ts
-#EXTINF:-1 tvg-id="tvg2.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="Indonesia",ID: GTV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png",ID: GTV HD
 http://filex.tv:8080//live/faheem01/0000/302247.ts
-#EXTINF:-1 tvg-id="hbo.bg" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Indonesia",ID: HBO HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png",ID: HBO HD
 http://filex.tv:8080//live/faheem01/0000/302248.ts
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Indonesia",ID: HBO Family HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png",ID: HBO Family HD
 http://filex.tv:8080//live/faheem01/0000/302249.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Indonesia",ID: HBO HITS HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png",ID: HBO HITS HD
 http://filex.tv:8080//live/faheem01/0000/302250.ts
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Indonesia",ID: HBO Signature HD
-http://filex.tv:8080//live/faheem01/0000/302251.ts
-#EXTINF:-1 tvg-id="hgtv.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="Indonesia",ID: HGTV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png",ID: HGTV HD
 http://filex.tv:8080//live/faheem01/0000/302252.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/64856f589d7cf4ebc75e471cc73e98f3.png" group-title="Indonesia",ID: HIP HIP Horee! HD
-http://filex.tv:8080//live/faheem01/0000/302253.ts
-#EXTINF:-1 tvg-id="history.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="Indonesia",ID: History HD
-http://filex.tv:8080//live/faheem01/0000/302254.ts
-#EXTINF:-1 tvg-id="mtvhits.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="Indonesia",ID: HITS HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png",ID: HITS HD
 http://filex.tv:8080//live/faheem01/0000/302255.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Indonesia",ID: HITS Movies HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png",ID: HITS Movies HD
 http://filex.tv:8080//live/faheem01/0000/302256.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1470dba88dbd7fa85ae09b801fee6fc9.png" group-title="Indonesia",ID: Horee! HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1470dba88dbd7fa85ae09b801fee6fc9.png",ID: Horee! HD
 http://filex.tv:8080//live/faheem01/0000/302257.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/06da81eac8b78bcc95cff8e173d9ca07.png" group-title="Indonesia",ID: HUMA Betang TV HD
-http://filex.tv:8080//live/faheem01/0000/302258.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/110bdcc65fd8509659d074e68e432214.png" group-title="Indonesia",ID: Hunan TV HD
-http://filex.tv:8080//live/faheem01/0000/302259.ts
-#EXTINF:-1 tvg-id="ons.nl" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: I Konser HD
-http://filex.tv:8080//live/faheem01/0000/302260.ts
-#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="Indonesia",ID: IDX HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png",ID: IDX HD
 http://filex.tv:8080//live/faheem01/0000/302261.ts
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="Indonesia",ID: IMC HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png",ID: IMC HD
 http://filex.tv:8080//live/faheem01/0000/302262.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: INDI KIDS HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",ID: INDI KIDS HD
 http://filex.tv:8080//live/faheem01/0000/302263.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Indonesia",ID: Indosiar HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png",ID: Indosiar HD
 http://filex.tv:8080//live/faheem01/0000/302264.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="Indonesia",ID: Insert HD
-http://filex.tv:8080//live/faheem01/0000/302266.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9602d4376a3111f7a2fca2542480f8a1.png" group-title="Indonesia",ID: Izzah TV HD
-http://filex.tv:8080//live/faheem01/0000/302267.ts
-#EXTINF:-1 tvg-id="ktv.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="Indonesia",ID: JAK TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png",ID: JAK TV HD
 http://filex.tv:8080//live/faheem01/0000/302268.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="Indonesia",ID: JTV HD
-http://filex.tv:8080//live/faheem01/0000/302269.ts
-#EXTINF:-1 tvg-id="ekids.bg" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="Indonesia",ID: KIDS TV HD
-http://filex.tv:8080//live/faheem01/0000/302270.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="Indonesia",ID: Kompas TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png",ID: Kompas TV HD
 http://filex.tv:8080//live/faheem01/0000/302271.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b6d40037e76d59f5cd57f43ea872153b.png" group-title="Indonesia",ID: Lifestyle & Fashion HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b6d40037e76d59f5cd57f43ea872153b.png",ID: Lifestyle & Fashion HD
 http://filex.tv:8080//live/faheem01/0000/302272.ts
-#EXTINF:-1 tvg-id="metv.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="Indonesia",ID: Metro TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png",ID: Metro TV HD
 http://filex.tv:8080//live/faheem01/0000/302273.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="Indonesia",ID: MNC NEWS HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png",ID: MNC NEWS HD
 http://filex.tv:8080//live/faheem01/0000/302274.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="Indonesia",ID: MNC Sports HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png",ID: MNC Sports HD
 http://filex.tv:8080//live/faheem01/0000/302275.ts
-#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="Indonesia",ID: MNC Sports 2 HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png",ID: MNC Sports 2 HD
 http://filex.tv:8080//live/faheem01/0000/302276.ts
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" group-title="Indonesia",ID: MNC Sports 3 HD
-http://filex.tv:8080//live/faheem01/0000/302277.ts
-#EXTINF:-1 tvg-id="msnbc.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="Indonesia",ID: MNC TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png",ID: MNC TV HD
 http://filex.tv:8080//live/faheem01/0000/302278.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="Indonesia",ID: MOJI HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png",ID: MOJI HD
 http://filex.tv:8080//live/faheem01/0000/302279.ts
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: MQTV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",ID: MQTV HD
 http://filex.tv:8080//live/faheem01/0000/302280.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/291c3c364ac79b346426329acea392dd.png" group-title="Indonesia",ID: MTA 7 ASIA HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/291c3c364ac79b346426329acea392dd.png",ID: MTA 7 ASIA HD
 http://filex.tv:8080//live/faheem01/0000/302281.ts
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/572ee91ff1e528d04284dd7e952bed14.png" group-title="Indonesia",ID: MTA TV HD
-http://filex.tv:8080//live/faheem01/0000/302282.ts
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="Indonesia",ID: Music TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png",ID: Music TV HD
 http://filex.tv:8080//live/faheem01/0000/302283.ts
-#EXTINF:-1 tvg-id="btvcinema.bg" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="Indonesia",ID: MY Cinema HD
-http://filex.tv:8080//live/faheem01/0000/302284.ts
-#EXTINF:-1 tvg-id="Sky Crime.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="Indonesia",ID: MY Cinema ASIA HD
-http://filex.tv:8080//live/faheem01/0000/302285.ts
-#EXTINF:-1 tvg-id="film1family.nl" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/21e2e3ff0f19266e11d9456e6bf19494.png" group-title="Indonesia",ID: MY Family HD
-http://filex.tv:8080//live/faheem01/0000/302286.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="Indonesia",ID: MY KIDZ HD
-http://filex.tv:8080//live/faheem01/0000/302287.ts
-#EXTINF:-1 tvg-id="net5.nl" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="Indonesia",ID: NET HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png",ID: NET HD
 http://filex.tv:8080//live/faheem01/0000/302288.ts
-#EXTINF:-1 tvg-id="nickjr.no" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="Indonesia",ID: NICK JR HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png",ID: NICK JR HD
 http://filex.tv:8080//live/faheem01/0000/302289.ts
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="Indonesia",ID: Nickelodeon HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png",ID: Nickelodeon HD
 http://filex.tv:8080//live/faheem01/0000/302290.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="Indonesia",ID: Nusantara TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png",ID: Nusantara TV HD
 http://filex.tv:8080//live/faheem01/0000/302291.ts
-#EXTINF:-1 tvg-id="one.de" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: ONE HD
-http://filex.tv:8080//live/faheem01/0000/302292.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/eb14737d742919bfde6ea9747298a305.jpeg" group-title="Indonesia",ID: Padang TV HD
-http://filex.tv:8080//live/faheem01/0000/302293.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a5c26c764dbc192e64d3019219ebebaf.png" group-title="Indonesia",ID: Prambors HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a5c26c764dbc192e64d3019219ebebaf.png",ID: Prambors HD
 http://filex.tv:8080//live/faheem01/0000/302294.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/3eab9934cb20ef8a82b2e1fc3c09aaf8.png" group-title="Indonesia",ID: Radar Cirebon TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/3eab9934cb20ef8a82b2e1fc3c09aaf8.png",ID: Radar Cirebon TV HD
 http://filex.tv:8080//live/faheem01/0000/302295.ts
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: Radio 51 HD
-http://filex.tv:8080//live/faheem01/0000/302296.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="Indonesia",ID: RCTI HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",ID: RCTI HD
 http://filex.tv:8080//live/faheem01/0000/302297.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="Indonesia",ID: ROCK Action HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png",ID: ROCK Action HD
 http://filex.tv:8080//live/faheem01/0000/302298.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="Indonesia",ID: ROCK Entertaiment HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png",ID: ROCK Entertaiment HD
 http://filex.tv:8080//live/faheem01/0000/302299.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png" group-title="Indonesia",ID: Rodja TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png",ID: Rodja TV HD
 http://filex.tv:8080//live/faheem01/0000/302300.ts
-#EXTINF:-1 tvg-id="tvs.pl" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="Indonesia",ID: SCTV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png",ID: SCTV HD
 http://filex.tv:8080//live/faheem01/0000/302301.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/66ccbde52f52776d0260f416549d914c.png" group-title="Indonesia",ID: SEA Today HD
-http://filex.tv:8080//live/faheem01/0000/302302.ts
-#EXTINF:-1 tvg-id="one.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="Indonesia",ID: Sindonews TV HD
-http://filex.tv:8080//live/faheem01/0000/302303.ts
-#EXTINF:-1 tvg-id="smithsonian.ca" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png" group-title="Indonesia",ID: Smithsonian Channel HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png",ID: Smithsonian Channel HD
 http://filex.tv:8080//live/faheem01/0000/302304.ts
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="Indonesia",ID: SpoTV HD
-http://filex.tv:8080//live/faheem01/0000/302305.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="Indonesia",ID: SpoTV 2 HD
-http://filex.tv:8080//live/faheem01/0000/302306.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/54e3399a19f5ee556aa1f85f3103520c.png" group-title="Indonesia",ID: TECH Storm HD
-http://filex.tv:8080//live/faheem01/0000/302307.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b2ae084f3c3450b3f8050b67cd5926e.jpg" group-title="Indonesia",ID: Tegar TV Lampung HD
-http://filex.tv:8080//live/faheem01/0000/302308.ts
-#EXTINF:-1 tvg-id="thrillermaxpacific.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="Indonesia",ID: Thrill HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png",ID: Thrill HD
 http://filex.tv:8080//live/faheem01/0000/302309.ts
-#EXTINF:-1 tvg-id="tlc.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png" group-title="Indonesia",ID: TLC HD
-http://filex.tv:8080//live/faheem01/0000/302310.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="Indonesia",ID: Trans 7 HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png",ID: Trans 7 HD
 http://filex.tv:8080//live/faheem01/0000/302311.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="Indonesia",ID: Trans TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png",ID: Trans TV HD
 http://filex.tv:8080//live/faheem01/0000/302312.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="Indonesia",ID: TV 9 Nusantara HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png",ID: TV 9 Nusantara HD
 http://filex.tv:8080//live/faheem01/0000/302313.ts
-#EXTINF:-1 tvg-id="one.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="Indonesia",ID: TV ONE HD
-http://filex.tv:8080//live/faheem01/0000/302314.ts
-#EXTINF:-1 tvg-id="ktv.de" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: TVKU HD
-http://filex.tv:8080//live/faheem01/0000/302315.ts
-#EXTINF:-1 tvg-id="ntv.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="Indonesia",ID: TVN HD
-http://filex.tv:8080//live/faheem01/0000/302316.ts
-#EXTINF:-1 tvg-id="axnblack.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="Indonesia",ID: TVN Movies HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png",ID: TVN Movies HD
 http://filex.tv:8080//live/faheem01/0000/302317.ts
-#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="Indonesia",ID: TVRI HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png",ID: TVRI HD
 http://filex.tv:8080//live/faheem01/0000/302318.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/d07af261f0a1c95e9af8b5c8da7493cf.png" group-title="Indonesia",ID: TVRI JAWA Barat HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/d07af261f0a1c95e9af8b5c8da7493cf.png",ID: TVRI JAWA Barat HD
 http://filex.tv:8080//live/faheem01/0000/302319.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/6876b1ded655d8d32a4b3a0b79cf0e72.png" group-title="Indonesia",ID: TVRI Kalimantan Barat HD
-http://filex.tv:8080//live/faheem01/0000/302320.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/f9a14843b0ad55e50f9141733710994e.png" group-title="Indonesia",ID: TVRI Kalimantan Tengah HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/f9a14843b0ad55e50f9141733710994e.png",ID: TVRI Kalimantan Tengah HD
 http://filex.tv:8080//live/faheem01/0000/302321.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c13b7324e131c35d64fc7007c0b153ce.png" group-title="Indonesia",ID: TVRI Sulawesi Selatan HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c13b7324e131c35d64fc7007c0b153ce.png",ID: TVRI Sulawesi Selatan HD
 http://filex.tv:8080//live/faheem01/0000/302322.ts
-#EXTINF:-1 tvg-id="utv.ro" tvg-logo="" group-title="Indonesia",ID: UG TV HD
+#EXTINF:-1 group-title="Indonesia",ID: UG TV HD
 http://filex.tv:8080//live/faheem01/0000/302323.ts
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: USEE Sport 1 HD
-http://filex.tv:8080//live/faheem01/0000/302324.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: USEE Sport 2 HD
-http://filex.tv:8080//live/faheem01/0000/302325.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="Indonesia",ID: Vision Prime HD
-http://filex.tv:8080//live/faheem01/0000/302326.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="Indonesia",ID: ZEE Bioskop HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png",ID: ZEE Bioskop HD
 http://filex.tv:8080//live/faheem01/0000/302327.ts
-#EXTINF:-1 tvg-id="zoomtv.pl" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="Indonesia",ID: Zoomoo HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png",ID: Zoomoo HD
 http://filex.tv:8080//live/faheem01/0000/302328.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="Indonesia",ID: Inews HD
-http://filex.tv:8080//live/faheem01/0000/302265.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: Akativi HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: Akativi HD
 http://filex.tv:8080//live/faheem01/0000/501223.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/510d06f193e1c004cfdd844488e79ce9.png" group-title="Indonesia",ID: AL WAFA Tarim HD
-http://filex.tv:8080//live/faheem01/0000/501224.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png" group-title="Indonesia",ID: Arirang HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png",ID: Arirang HD
 http://filex.tv:8080//live/faheem01/0000/501225.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/d42340681fd197b2cdbc8697ddacd03b.png" group-title="Indonesia",ID: Ashiil TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/d42340681fd197b2cdbc8697ddacd03b.png",ID: Ashiil TV HD
 http://filex.tv:8080//live/faheem01/0000/501226.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/2a475a5a3936edb688ec68fab938beb8.png" group-title="Indonesia",ID: AYU TVCC HD
-http://filex.tv:8080//live/faheem01/0000/501227.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="Indonesia",ID: BALI TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png",ID: BALI TV HD
 http://filex.tv:8080//live/faheem01/0000/501228.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png" group-title="Indonesia",ID: BEIN Sports 1 HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png",ID: BEIN Sports 1 HD
 http://filex.tv:8080//live/faheem01/0000/501229.ts
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6f82a20e6cb25273d24618f5a8c98458.png" group-title="Indonesia",ID: BEIN Sports 3 HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6f82a20e6cb25273d24618f5a8c98458.png",ID: BEIN Sports 3 HD
 http://filex.tv:8080//live/faheem01/0000/501230.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: Beritasatu HD
-http://filex.tv:8080//live/faheem01/0000/501231.ts
-#EXTINF:-1 tvg-id="bloomberg.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="Indonesia",ID: Bloomberg TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png",ID: Bloomberg TV HD
 http://filex.tv:8080//live/faheem01/0000/501232.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.no" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: Cartoon Network ID HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: Cartoon Network ID HD
 http://filex.tv:8080//live/faheem01/0000/501233.ts
-#EXTINF:-1 tvg-id="cmtv.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="Indonesia",ID: CCM HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png",ID: CCM HD
 http://filex.tv:8080//live/faheem01/0000/501234.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png" group-title="Indonesia",ID: CGTN HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png",ID: CGTN HD
 http://filex.tv:8080//live/faheem01/0000/501235.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: Chinese Drama HD
-http://filex.tv:8080//live/faheem01/0000/501236.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="Indonesia",ID: Citra Drama HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png",ID: Citra Drama HD
 http://filex.tv:8080//live/faheem01/0000/501237.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: Dhoho TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: Dhoho TV HD
 http://filex.tv:8080//live/faheem01/0000/501238.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e758a48ee4c9f4f226cf65764e549299.png" group-title="Indonesia",ID: Discovery ASIA HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e758a48ee4c9f4f226cf65764e549299.png",ID: Discovery ASIA HD
 http://filex.tv:8080//live/faheem01/0000/501239.ts
-#EXTINF:-1 tvg-id="disneyjunior.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="Indonesia",ID: Disney Junior HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png",ID: Disney Junior HD
 http://filex.tv:8080//live/faheem01/0000/501240.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4438aed45f7b7df82c2bcba4858c3d88.png" group-title="Indonesia",ID: Eat&go HD
-http://filex.tv:8080//live/faheem01/0000/501241.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: ETV Bioskop 02 HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",ID: ETV Bioskop 02 HD
 http://filex.tv:8080//live/faheem01/0000/501242.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Indonesia",ID: ETV Bioskop 03 HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",ID: ETV Bioskop 03 HD
 http://filex.tv:8080//live/faheem01/0000/501243.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/4c853008f5a94216b46c111232a08064.png" group-title="Indonesia",ID: EWTN ASIA Pacific HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/4c853008f5a94216b46c111232a08064.png",ID: EWTN ASIA Pacific HD
 http://filex.tv:8080//live/faheem01/0000/501244.ts
-#EXTINF:-1 tvg-id="ion.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1b93a982149c1ae794f98d2c80c5bf5d.png" group-title="Indonesia",ID: Fashion TV HD
-http://filex.tv:8080//live/faheem01/0000/501245.ts
-#EXTINF:-1 tvg-id="fox.hr" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: Ficom Channel HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: Ficom Channel HD
 http://filex.tv:8080//live/faheem01/0000/501246.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="Indonesia",ID: Galaxy HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png",ID: Galaxy HD
 http://filex.tv:8080//live/faheem01/0000/501247.ts
-#EXTINF:-1 tvg-id="hbo.bg" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: HBO HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: HBO HD
 http://filex.tv:8080//live/faheem01/0000/501248.ts
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: HBO Family HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: HBO Family HD
 http://filex.tv:8080//live/faheem01/0000/501249.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: HBO HITS HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: HBO HITS HD
 http://filex.tv:8080//live/faheem01/0000/501250.ts
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: HBO Signature HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: HBO Signature HD
 http://filex.tv:8080//live/faheem01/0000/501251.ts
-#EXTINF:-1 tvg-id="happychannel.ro" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: HOPE Channel HD
-http://filex.tv:8080//live/faheem01/0000/501252.ts
-#EXTINF:-1 tvg-id="ctvdramachannel.ca" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ccc0ed5631ee9e4dbde438fbcbbe0277.png" group-title="Indonesia",ID: I AM Channel HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ccc0ed5631ee9e4dbde438fbcbbe0277.png",ID: I AM Channel HD
 http://filex.tv:8080//live/faheem01/0000/501253.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/90e2c8f15ca01f83dbc470a4ac534f9e.png" group-title="Indonesia",ID: Jambi TV HD
-http://filex.tv:8080//live/faheem01/0000/501255.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: JAWA POS TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: JAWA POS TV HD
 http://filex.tv:8080//live/faheem01/0000/501256.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/5a76ac7edb1f8be80763f61c5b1bd16f.png" group-title="Indonesia",ID: Jogja Istimewa TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/5a76ac7edb1f8be80763f61c5b1bd16f.png",ID: Jogja Istimewa TV HD
 http://filex.tv:8080//live/faheem01/0000/501257.ts
-#EXTINF:-1 tvg-id="ktv.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="Indonesia",ID: K+ HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png",ID: K+ HD
 http://filex.tv:8080//live/faheem01/0000/501258.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: Kutim TVCC HD
-http://filex.tv:8080//live/faheem01/0000/501259.ts
-#EXTINF:-1 tvg-id="lifetime.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="Indonesia",ID: Lifetime HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png",ID: Lifetime HD
 http://filex.tv:8080//live/faheem01/0000/501260.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/a2de6ff0f4df330c3c936427246c0327.png" group-title="Indonesia",ID: Macau Lotus TV HD
-http://filex.tv:8080//live/faheem01/0000/501261.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indonesia",ID: MADU TV HD
+#EXTINF:-1 group-title="Indonesia",ID: MADU TV HD
 http://filex.tv:8080//live/faheem01/0000/501262.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/bcbb8b29070d14154ab08c3a22fcee94.png" group-title="Indonesia",ID: Music Information Channel HD
-http://filex.tv:8080//live/faheem01/0000/501263.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/53599b1678f8c7bc55b5a727d13bf0e1.png" group-title="Indonesia",ID: Nabawi TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/53599b1678f8c7bc55b5a727d13bf0e1.png",ID: Nabawi TV HD
 http://filex.tv:8080//live/faheem01/0000/501264.ts
-#EXTINF:-1 tvg-id="natgeo.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="Indonesia",ID: NAT GEO HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png",ID: NAT GEO HD
 http://filex.tv:8080//live/faheem01/0000/501265.ts
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="Indonesia",ID: NAT GEO WILD HD
-http://filex.tv:8080//live/faheem01/0000/501266.ts
-#EXTINF:-1 tvg-id="nbatv.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="Indonesia",ID: NBA TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png",ID: NBA TV HD
 http://filex.tv:8080//live/faheem01/0000/501267.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/355fc0dc73253b7e89db48bfadbb2807.png" group-title="Indonesia",ID: NHK World HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/355fc0dc73253b7e89db48bfadbb2807.png",ID: NHK World HD
 http://filex.tv:8080//live/faheem01/0000/501268.ts
-#EXTINF:-1 tvg-id="nickjr.no" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="Indonesia",ID: NICK JR EN HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png",ID: NICK JR EN HD
 http://filex.tv:8080//live/faheem01/0000/501269.ts
-#EXTINF:-1 tvg-id="one.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="Indonesia",ID: ONE HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png",ID: ONE HD
 http://filex.tv:8080//live/faheem01/0000/501270.ts
-#EXTINF:-1 tvg-id="tvp.pl" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/2c84b56143bf6c8f73113e5838a763cb.png" group-title="Indonesia",ID: PSJ TV HD
-http://filex.tv:8080//live/faheem01/0000/501271.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="Indonesia",ID: Rajawali TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png",ID: Rajawali TV HD
 http://filex.tv:8080//live/faheem01/0000/501272.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/399d59d5f98278128d56be416d2c35b5.png" group-title="Indonesia",ID: RIAU TV HD
-http://filex.tv:8080//live/faheem01/0000/501273.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3fd36ee56651002d0195cd998d2d0f5b.png" group-title="Indonesia",ID: RRI NET HD
-http://filex.tv:8080//live/faheem01/0000/501274.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/d1d31ef77c60f810da63fe78cc41c0df.png" group-title="Indonesia",ID: Sakti TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/d1d31ef77c60f810da63fe78cc41c0df.png",ID: Sakti TV HD
 http://filex.tv:8080//live/faheem01/0000/501275.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6a3454cfe97674f547af1d5ae6ab2306.png" group-title="Indonesia",ID: Surau TV HD
-http://filex.tv:8080//live/faheem01/0000/501276.ts
-#EXTINF:-1 tvg-id="atv.at" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: TATV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: TATV HD
 http://filex.tv:8080//live/faheem01/0000/501277.ts
-#EXTINF:-1 tvg-id="mutv.uk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c670d341a55f851a059f320c0b831037.png" group-title="Indonesia",ID: TV MU HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c670d341a55f851a059f320c0b831037.png",ID: TV MU HD
 http://filex.tv:8080//live/faheem01/0000/501278.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/47568faeda204bcbbecfe3bac3d286eb.png" group-title="Indonesia",ID: TV Tabalong HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/47568faeda204bcbbecfe3bac3d286eb.png",ID: TV Tabalong HD
 http://filex.tv:8080//live/faheem01/0000/501279.ts
-#EXTINF:-1 tvg-id="ntv.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="Indonesia",ID: TVN HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png",ID: TVN HD
 http://filex.tv:8080//live/faheem01/0000/501280.ts
-#EXTINF:-1 tvg-id="one.de" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="Indonesia",ID: TVone HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png",ID: TVone HD
 http://filex.tv:8080//live/faheem01/0000/501281.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3fd74de7c7e644f6045b5166879d3a03.png" group-title="Indonesia",ID: TVRI ACEH HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3fd74de7c7e644f6045b5166879d3a03.png",ID: TVRI ACEH HD
 http://filex.tv:8080//live/faheem01/0000/501282.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/18313e7bc85d4b6ebbfbfb9cd8c446ab.png" group-title="Indonesia",ID: TVRI BALI HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/18313e7bc85d4b6ebbfbfb9cd8c446ab.png",ID: TVRI BALI HD
 http://filex.tv:8080//live/faheem01/0000/501283.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3683b046dc9af507f1c52d4bede153be.png" group-title="Indonesia",ID: TVRI Bangka Belitung HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3683b046dc9af507f1c52d4bede153be.png",ID: TVRI Bangka Belitung HD
 http://filex.tv:8080//live/faheem01/0000/501284.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/2b2d21b3a86a3ee175d188c8ad99b1c2.png" group-title="Indonesia",ID: TVRI Bengkulu HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/2b2d21b3a86a3ee175d188c8ad99b1c2.png",ID: TVRI Bengkulu HD
 http://filex.tv:8080//live/faheem01/0000/501285.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/d67405ebc2d764f37faa0b4f580ae1a1.png" group-title="Indonesia",ID: TVRI DKI Jakarta HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/d67405ebc2d764f37faa0b4f580ae1a1.png",ID: TVRI DKI Jakarta HD
 http://filex.tv:8080//live/faheem01/0000/501286.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/b68e2b392340fa6d54907e749989b853.png" group-title="Indonesia",ID: TVRI Gorontalo HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/b68e2b392340fa6d54907e749989b853.png",ID: TVRI Gorontalo HD
 http://filex.tv:8080//live/faheem01/0000/501287.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/c4a6c0c155b07aae5b09255a6095bef1.png" group-title="Indonesia",ID: TVRI Jambi HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/c4a6c0c155b07aae5b09255a6095bef1.png",ID: TVRI Jambi HD
 http://filex.tv:8080//live/faheem01/0000/501288.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/99b082430aa9b165f5a338e2d9a7ecd0.png" group-title="Indonesia",ID: TVRI JAWA Tengah HD
-http://filex.tv:8080//live/faheem01/0000/501289.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/9207cfb954c8ff99aa7706b771181723.png" group-title="Indonesia",ID: TVRI JAWA Timur HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/9207cfb954c8ff99aa7706b771181723.png",ID: TVRI JAWA Timur HD
 http://filex.tv:8080//live/faheem01/0000/501290.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/c8580968b402ba06a05644b23215e743.png" group-title="Indonesia",ID: TVRI Kalimantan Selatan HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/c8580968b402ba06a05644b23215e743.png",ID: TVRI Kalimantan Selatan HD
 http://filex.tv:8080//live/faheem01/0000/501291.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/bb3dcf171b50be12f0cf9ba6f92d4856.png" group-title="Indonesia",ID: TVRI Kalimantan Timur HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/bb3dcf171b50be12f0cf9ba6f92d4856.png",ID: TVRI Kalimantan Timur HD
 http://filex.tv:8080//live/faheem01/0000/501292.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/fb2cfa53fbd6fb6d20e68a7245ac4bd6.png" group-title="Indonesia",ID: TVRI Lampung HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/fb2cfa53fbd6fb6d20e68a7245ac4bd6.png",ID: TVRI Lampung HD
 http://filex.tv:8080//live/faheem01/0000/501293.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/302e8338424ecc013e3d59dc0d7dc23d.png" group-title="Indonesia",ID: TVRI Maluku HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/302e8338424ecc013e3d59dc0d7dc23d.png",ID: TVRI Maluku HD
 http://filex.tv:8080//live/faheem01/0000/501294.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3337ecf88119fba1ba8826914b100f37.png" group-title="Indonesia",ID: TVRI NUSA Tenggara Barat HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3337ecf88119fba1ba8826914b100f37.png",ID: TVRI NUSA Tenggara Barat HD
 http://filex.tv:8080//live/faheem01/0000/501295.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/be095cb83306a78445f0b65a300383ee.png" group-title="Indonesia",ID: TVRI NUSA Tenggara Timur HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/be095cb83306a78445f0b65a300383ee.png",ID: TVRI NUSA Tenggara Timur HD
 http://filex.tv:8080//live/faheem01/0000/501296.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/061e309aed32500706a347fc9e0b5fe4.png" group-title="Indonesia",ID: TVRI Papua HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/061e309aed32500706a347fc9e0b5fe4.png",ID: TVRI Papua HD
 http://filex.tv:8080//live/faheem01/0000/501297.ts
-#EXTINF:-1 tvg-id="raistoria.it" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/a7e3b437400438f0854d7974a04e22ac.png" group-title="Indonesia",ID: TVRI RIAU HD
-http://filex.tv:8080//live/faheem01/0000/501298.ts
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="Indonesia",ID: TVRI Sport HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png",ID: TVRI Sport HD
 http://filex.tv:8080//live/faheem01/0000/501299.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/6bab30811966b6bfd10963e409029ad5.png" group-title="Indonesia",ID: TVRI Sulawesi Barat HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/6bab30811966b6bfd10963e409029ad5.png",ID: TVRI Sulawesi Barat HD
 http://filex.tv:8080//live/faheem01/0000/501300.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/61239c45ce74d32fdc6946ce1da06e27.png" group-title="Indonesia",ID: TVRI Sulawesi Tengah HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/61239c45ce74d32fdc6946ce1da06e27.png",ID: TVRI Sulawesi Tengah HD
 http://filex.tv:8080//live/faheem01/0000/501301.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/5f5bce3167db39c311e9c3e88d058aee.png" group-title="Indonesia",ID: TVRI Sulawesi Tenggara HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/5f5bce3167db39c311e9c3e88d058aee.png",ID: TVRI Sulawesi Tenggara HD
 http://filex.tv:8080//live/faheem01/0000/501302.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/5e0d438bb2ca3f48357d792c0fdc81b5.png" group-title="Indonesia",ID: TVRI Sumatera Barat HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/5e0d438bb2ca3f48357d792c0fdc81b5.png",ID: TVRI Sumatera Barat HD
 http://filex.tv:8080//live/faheem01/0000/501303.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/7a486990b2123af0bcded609cb431c3a.png" group-title="Indonesia",ID: TVRI Sumatera Selatan HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/7a486990b2123af0bcded609cb431c3a.png",ID: TVRI Sumatera Selatan HD
 http://filex.tv:8080//live/faheem01/0000/501304.ts
-#EXTINF:-1 tvg-id="trtworld.tr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/85ad5d2c9c73ea3102243b65bdf49d91.png" group-title="Indonesia",ID: TVRI World HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/85ad5d2c9c73ea3102243b65bdf49d91.png",ID: TVRI World HD
 http://filex.tv:8080//live/faheem01/0000/501305.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/2f184802e2b3c8672db32185e50ff616.png" group-title="Indonesia",ID: TVRI Yogyakarta HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/2f184802e2b3c8672db32185e50ff616.png",ID: TVRI Yogyakarta HD
 http://filex.tv:8080//live/faheem01/0000/501306.ts
-#EXTINF:-1 tvg-id="fox.hr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c06fb1934479ecc6192471dee8b59a73.png" group-title="Indonesia",ID: U Channel HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c06fb1934479ecc6192471dee8b59a73.png",ID: U Channel HD
 http://filex.tv:8080//live/faheem01/0000/501307.ts
-#EXTINF:-1 tvg-id="tnt.pl" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="Indonesia",ID: Warner TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg",ID: Warner TV HD
 http://filex.tv:8080//live/faheem01/0000/501308.ts
-#EXTINF:-1 tvg-id="wetv.us" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f76fea39b72d897674ce2294457a011e.png" group-title="Indonesia",ID: Wesal TV HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f76fea39b72d897674ce2294457a011e.png",ID: Wesal TV HD
 http://filex.tv:8080//live/faheem01/0000/501309.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="Indonesia",ID: Inews HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",ID: Inews HD
 http://filex.tv:8080//live/faheem01/0000/501254.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/724b0efaef7a6f098800a18489d4d7a6.svg" group-title="Malaysia",MY: Animal Planet HD
 http://filex.tv:8080//live/faheem01/0000/303494.ts
