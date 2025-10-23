@@ -1,3 +1,4 @@
+<div id="content-id" style="display:none;">
 #EXTM3U
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%PAKAISENDIRIAJABRO%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -34110,7 +34111,16 @@ http://vipforj.top:8080/movie/VIP0180170851739253/ec906fdd01c7/137898.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDmhiwlTJBxDvmFipqssnzv29p9.jpg" group-title="DISNEY | Sports",Yuzuru Hanyu ICE STORY 2023 
 http://vipforj.top:8080/movie/VIP0180170851739253/ec906fdd01c7/137899.mkv
 
-
-
+  </div>
+<script>
+function toggleVisibility(id) {
+  var content = document.getElementById(id);
+  if (content.style.display === "none") {
+    content.style.display = "block";
+  } else {
+    content.style.display = "none";
+  }
+}
+</script>
 
 
